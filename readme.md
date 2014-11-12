@@ -11,7 +11,7 @@ Para consumir a API é necessário fornecer um Token, este por sua vez deve ser 
 De posse deste Token qualquer aplicação pode requisitar recursos [GET] ou enviar [POST] nos dados para API.
 O token deve ser enviado no Header da requisição.  
 
-**Exemplo:**  
+**Exemplo**  
 GET : http://api.xpto.com/experiences
 
 ```lua
